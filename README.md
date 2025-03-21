@@ -1,2 +1,2 @@
-# DataWarehouseManagement
+# DataWarehouseMining
 Practicals performed in DWM
